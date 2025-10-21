@@ -1,0 +1,131 @@
+week,week_ending_date,site_id,patients_screened,patients_enrolled,screen_fail_reasons
+1,2024-07-01,Site-047,5,6,Eligibility criteria not met
+1,2024-07-01,Site-156,3,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-089,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-234,2,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-022,3,2,Eligibility criteria not met; Withdrew consent
+1,2024-07-01,Site-311,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-178,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-412,5,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-267,2,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+1,2024-07-01,Site-145,5,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-047,5,4,Eligibility criteria not met
+2,2024-07-08,Site-156,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-089,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-234,3,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-022,3,2,Eligibility criteria not met; Withdrew consent
+2,2024-07-08,Site-311,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-178,2,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-412,6,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-267,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+2,2024-07-08,Site-145,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-047,5,5,Eligibility criteria not met
+3,2024-07-15,Site-156,3,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-089,3,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-234,2,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-022,4,3,Eligibility criteria not met; Withdrew consent
+3,2024-07-15,Site-311,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-178,3,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-412,3,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-267,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+3,2024-07-15,Site-145,3,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-047,5,6,Eligibility criteria not met
+4,2024-07-22,Site-156,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-089,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-234,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-022,3,2,Eligibility criteria not met; Withdrew consent
+4,2024-07-22,Site-311,3,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-178,5,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-412,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-267,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+4,2024-07-22,Site-145,3,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-047,6,4,Eligibility criteria not met
+5,2024-07-29,Site-156,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-089,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-234,4,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-022,0,0,Eligibility criteria not met; Withdrew consent
+5,2024-07-29,Site-311,2,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-178,5,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-412,4,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-267,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+5,2024-07-29,Site-145,4,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-047,7,5,Eligibility criteria not met
+6,2024-08-05,Site-156,2,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-089,4,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-234,2,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-022,1,0,Eligibility criteria not met; Withdrew consent
+6,2024-08-05,Site-311,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-178,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-412,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-267,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+6,2024-08-05,Site-145,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-047,5,4,Eligibility criteria not met
+7,2024-08-12,Site-156,6,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-089,5,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-234,6,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-022,1,0,Eligibility criteria not met; Withdrew consent
+7,2024-08-12,Site-311,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-178,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-412,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-267,2,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+7,2024-08-12,Site-145,5,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-047,5,6,Eligibility criteria not met
+8,2024-08-19,Site-156,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-089,4,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-234,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-022,0,0,Eligibility criteria not met; Withdrew consent
+8,2024-08-19,Site-311,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-178,3,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-412,4,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-267,5,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+8,2024-08-19,Site-145,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-047,7,4,Eligibility criteria not met
+9,2024-08-26,Site-156,6,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-089,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-234,2,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-022,0,0,Eligibility criteria not met; Withdrew consent
+9,2024-08-26,Site-311,4,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-178,3,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-412,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-267,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+9,2024-08-26,Site-145,4,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-047,5,5,Eligibility criteria not met
+10,2024-09-02,Site-156,6,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-089,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-234,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-022,0,0,Eligibility criteria not met; Withdrew consent
+10,2024-09-02,Site-311,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-178,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-412,6,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-267,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+10,2024-09-02,Site-145,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-047,5,6,Eligibility criteria not met
+11,2024-09-09,Site-156,6,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-089,6,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-234,5,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-022,1,0,Eligibility criteria not met; Withdrew consent
+11,2024-09-09,Site-311,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-178,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-412,2,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-267,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+11,2024-09-09,Site-145,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-047,5,5,Eligibility criteria not met
+12,2024-09-16,Site-156,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-089,6,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-234,5,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-022,1,0,Eligibility criteria not met; Withdrew consent
+12,2024-09-16,Site-311,3,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-178,4,1,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-412,6,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-267,5,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+12,2024-09-16,Site-145,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-047,7,5,Eligibility criteria not met
+13,2024-09-23,Site-156,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-089,4,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-234,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-022,1,0,Eligibility criteria not met; Withdrew consent
+13,2024-09-23,Site-311,2,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-178,2,2,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-412,5,3,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-267,2,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent
+13,2024-09-23,Site-145,5,4,Eligibility criteria not met; Lab abnormalities; Withdrew consent

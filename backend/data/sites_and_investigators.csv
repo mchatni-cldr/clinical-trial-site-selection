@@ -1,0 +1,501 @@
+site_id,site_name,city,state,site_type,therapeutic_areas,pi_name,pi_experience_years,beds
+Site-001,Boston Medical Center,Boston,MA,academic,Respiratory; Oncology,Dr. Michael Lee,19,137
+Site-002,New York Medical Center,New York,NY,academic,Oncology; Neurology,Dr. Christopher Brown,12,435
+Site-003,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology; Respiratory,Dr. Christopher Smith,16,219
+Site-004,Chicago Medical Center,Chicago,IL,academic,Cardiology; Respiratory,Dr. Jessica Thomas,19,184
+Site-005,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology,Dr. Christopher Rodriguez,11,102
+Site-006,Omaha Regional Hospital,Omaha,NE,community,Respiratory; Gastroenterology,Dr. Mary Lee,19,69
+Site-007,Nashville Regional Hospital,Nashville,TN,community,Endocrinology; Neurology,Dr. Linda Brown,6,63
+Site-008,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology; Neurology,Dr. Mary Martinez,8,101
+Site-009,Dallas Regional Hospital,Dallas,TX,community,Cardiology,Dr. Joseph Thompson,17,107
+Site-010,Houston Medical Center,Houston,TX,academic,Cardiology,Dr. James Lopez,12,338
+Site-011,Miami Regional Hospital,Miami,FL,community,Neurology; Endocrinology,Dr. Robert Martinez,11,81
+Site-012,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Immunology,Dr. Lisa Jones,7,480
+Site-013,Seattle Medical Center,Seattle,WA,academic,Cardiology; Immunology,Dr. Susan Williams,5,395
+Site-014,Denver Regional Hospital,Denver,CO,community,Neurology,Dr. Elizabeth Wilson,23,48
+Site-015,Portland Regional Hospital,Portland,OR,community,Neurology,Dr. Patricia Wilson,11,47
+Site-016,San Diego Medical Center,San Diego,CA,academic,Endocrinology; Respiratory; Gastroenterology,Dr. Barbara Lopez,24,274
+Site-017,San Francisco Medical Center,San Francisco,CA,academic,Endocrinology; Immunology; Cardiology,Dr. James Lee,17,274
+Site-018,Minneapolis Medical Center,Minneapolis,MN,academic,Gastroenterology,Dr. Charles Martinez,16,491
+Site-019,Detroit Medical Center,Detroit,MI,academic,Cardiology; Neurology,Dr. Karen Lopez,11,162
+Site-020,Cleveland Medical Center,Cleveland,OH,academic,Immunology; Respiratory,Dr. Mary Johnson,9,247
+Site-021,Boston Medical Center,Boston,MA,academic,Gastroenterology; Neurology,Dr. Daniel Brown,15,444
+Site-022,Boston Medical Center,Boston,MA,academic,Oncology,Dr. Jessica Taylor,5,452
+Site-023,Philadelphia Medical Center,Philadelphia,PA,academic,Endocrinology; Cardiology,Dr. John Martin,24,409
+Site-024,Chicago Medical Center,Chicago,IL,academic,Oncology; Immunology; Gastroenterology,Dr. James Hernandez,22,109
+Site-025,Los Angeles Medical Center,Los Angeles,CA,academic,Cardiology,Dr. Thomas Johnson,5,58
+Site-026,Omaha Regional Hospital,Omaha,NE,community,Cardiology; Endocrinology,Dr. William Williams,23,123
+Site-027,Nashville Regional Hospital,Nashville,TN,community,Respiratory,Dr. Karen Williams,20,73
+Site-028,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology,Dr. John Taylor,13,147
+Site-029,Dallas Regional Hospital,Dallas,TX,community,Oncology; Immunology,Dr. James Taylor,16,46
+Site-030,Houston Medical Center,Houston,TX,academic,Respiratory; Cardiology,Dr. Mary Thompson,5,84
+Site-031,Miami Regional Hospital,Miami,FL,community,Oncology; Immunology; Neurology,Dr. Thomas Moore,16,56
+Site-032,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Endocrinology; Gastroenterology,Dr. Lisa Moore,18,465
+Site-033,Seattle Medical Center,Seattle,WA,academic,Gastroenterology,Dr. Daniel Smith,7,163
+Site-034,Denver Regional Hospital,Denver,CO,community,Endocrinology,Dr. Joseph White,6,62
+Site-035,Portland Regional Hospital,Portland,OR,community,Endocrinology,Dr. Nancy Taylor,11,32
+Site-036,San Diego Medical Center,San Diego,CA,academic,Cardiology,Dr. Michael Brown,17,141
+Site-037,San Francisco Medical Center,San Francisco,CA,academic,Oncology; Neurology,Dr. Mary Johnson,23,391
+Site-038,Minneapolis Medical Center,Minneapolis,MN,academic,Gastroenterology; Cardiology; Endocrinology,Dr. Thomas Lee,14,102
+Site-039,Detroit Medical Center,Detroit,MI,academic,Gastroenterology; Oncology,Dr. Barbara Lopez,9,360
+Site-040,Cleveland Medical Center,Cleveland,OH,academic,Respiratory; Gastroenterology; Endocrinology,Dr. Linda Lee,20,141
+Site-041,Boston Medical Center,Boston,MA,academic,Immunology; Endocrinology,Dr. Daniel Jones,13,145
+Site-042,New York Medical Center,New York,NY,academic,Immunology; Neurology; Gastroenterology,Dr. Nancy Taylor,12,125
+Site-043,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology,Dr. Jessica Martin,9,143
+Site-044,Chicago Medical Center,Chicago,IL,academic,Immunology; Respiratory,Dr. Susan Lee,9,271
+Site-045,Los Angeles Medical Center,Los Angeles,CA,academic,Oncology; Endocrinology; Respiratory,Dr. Robert Harris,14,196
+Site-046,Omaha Regional Hospital,Omaha,NE,community,Endocrinology; Respiratory,Dr. James Clark,9,143
+Site-047,Nebraska Regional Cancer Center,Omaha,NE,community,Respiratory; Gastroenterology; Cardiology,Dr. James Smith,23,63
+Site-048,Phoenix Regional Hospital,Phoenix,AZ,community,Immunology,Dr. Richard Lopez,18,27
+Site-049,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology,Dr. Elizabeth Johnson,23,139
+Site-050,Houston Medical Center,Houston,TX,academic,Immunology,Dr. Patricia Thompson,8,145
+Site-051,Miami Regional Hospital,Miami,FL,community,Immunology,Dr. Lisa Harris,9,36
+Site-052,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Gastroenterology,Dr. Thomas Lee,20,452
+Site-053,Seattle Medical Center,Seattle,WA,academic,Oncology; Respiratory; Endocrinology,Dr. Barbara Rodriguez,11,422
+Site-054,Denver Regional Hospital,Denver,CO,community,Respiratory; Cardiology,Dr. Robert Williams,16,76
+Site-055,Portland Regional Hospital,Portland,OR,community,Gastroenterology; Oncology; Immunology,Dr. Michael Wilson,14,94
+Site-056,San Diego Medical Center,San Diego,CA,academic,Neurology; Respiratory,Dr. Sarah Thomas,16,223
+Site-057,San Francisco Medical Center,San Francisco,CA,academic,Endocrinology; Gastroenterology,Dr. Richard Davis,14,471
+Site-058,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology; Endocrinology; Gastroenterology,Dr. Charles Davis,20,350
+Site-059,Detroit Medical Center,Detroit,MI,academic,Respiratory; Oncology,Dr. Patricia Brown,10,251
+Site-060,Cleveland Medical Center,Cleveland,OH,academic,Endocrinology,Dr. Charles Miller,7,410
+Site-061,Boston Medical Center,Boston,MA,academic,Neurology; Cardiology,Dr. Michael Smith,7,466
+Site-062,New York Medical Center,New York,NY,academic,Immunology; Cardiology; Oncology,Dr. Jennifer Thompson,10,423
+Site-063,Philadelphia Medical Center,Philadelphia,PA,academic,Respiratory,Dr. Christopher Hernandez,9,354
+Site-064,Chicago Medical Center,Chicago,IL,academic,Endocrinology; Immunology,Dr. Susan Thomas,5,321
+Site-065,Los Angeles Medical Center,Los Angeles,CA,academic,Oncology,Dr. Linda Garcia,16,235
+Site-066,Omaha Regional Hospital,Omaha,NE,community,Cardiology,Dr. Sarah Jones,13,65
+Site-067,Nashville Regional Hospital,Nashville,TN,community,Respiratory; Neurology,Dr. John Garcia,22,128
+Site-068,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology; Immunology,Dr. Robert Harris,5,105
+Site-069,Dallas Regional Hospital,Dallas,TX,community,Respiratory; Cardiology,Dr. Thomas Wilson,5,114
+Site-070,Houston Medical Center,Houston,TX,academic,Neurology; Oncology,Dr. Robert Garcia,7,194
+Site-071,Miami Regional Hospital,Miami,FL,community,Gastroenterology,Dr. Christopher Anderson,13,132
+Site-072,Atlanta Medical Center,Atlanta,GA,academic,Oncology,Dr. Linda Johnson,12,498
+Site-073,Seattle Medical Center,Seattle,WA,academic,Cardiology,Dr. Nancy Lopez,9,456
+Site-074,Denver Regional Hospital,Denver,CO,community,Oncology; Gastroenterology,Dr. Joseph Jones,18,117
+Site-075,Portland Regional Hospital,Portland,OR,community,Endocrinology; Cardiology; Neurology,Dr. Sarah Thomas,23,49
+Site-076,San Diego Medical Center,San Diego,CA,academic,Neurology; Gastroenterology,Dr. Daniel Martinez,23,322
+Site-077,San Francisco Medical Center,San Francisco,CA,academic,Immunology; Oncology; Neurology,Dr. Karen Clark,9,289
+Site-078,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology,Dr. David Martin,19,401
+Site-079,Detroit Medical Center,Detroit,MI,academic,Neurology,Dr. John Jackson,23,454
+Site-080,Cleveland Medical Center,Cleveland,OH,academic,Immunology; Neurology,Dr. Jennifer Smith,9,350
+Site-081,Boston Medical Center,Boston,MA,academic,Gastroenterology; Immunology,Dr. William Thomas,19,162
+Site-082,New York Medical Center,New York,NY,academic,Oncology; Endocrinology,Dr. John Lee,19,265
+Site-083,Philadelphia Medical Center,Philadelphia,PA,academic,Immunology,Dr. Mary Wilson,18,343
+Site-084,Chicago Medical Center,Chicago,IL,academic,Respiratory,Dr. John Martin,19,322
+Site-085,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology,Dr. Michael White,16,282
+Site-086,Omaha Regional Hospital,Omaha,NE,community,Endocrinology; Gastroenterology,Dr. Richard Jackson,19,120
+Site-087,Nashville Regional Hospital,Nashville,TN,community,Cardiology,Dr. Jennifer Lee,6,40
+Site-088,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology,Dr. Jennifer Garcia,20,50
+Site-089,Dallas Regional Hospital,Dallas,TX,community,Oncology; Gastroenterology; Neurology,Dr. Linda Jones,8,98
+Site-090,Houston Medical Center,Houston,TX,academic,Immunology; Endocrinology,Dr. Jennifer White,21,441
+Site-091,Miami Regional Hospital,Miami,FL,community,Endocrinology,Dr. Charles Wilson,16,132
+Site-092,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Immunology,Dr. Barbara Thomas,5,308
+Site-093,Seattle Medical Center,Seattle,WA,academic,Neurology; Gastroenterology,Dr. James Garcia,22,179
+Site-094,Denver Regional Hospital,Denver,CO,community,Immunology,Dr. Karen Smith,9,88
+Site-095,Portland Regional Hospital,Portland,OR,community,Endocrinology; Respiratory; Gastroenterology,Dr. Barbara Jackson,18,20
+Site-096,San Diego Medical Center,San Diego,CA,academic,Gastroenterology; Oncology; Neurology,Dr. Linda White,12,214
+Site-097,San Francisco Medical Center,San Francisco,CA,academic,Neurology; Gastroenterology,Dr. Robert Martin,18,345
+Site-098,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology; Respiratory,Dr. Linda Miller,12,202
+Site-099,Detroit Medical Center,Detroit,MI,academic,Oncology; Cardiology,Dr. Thomas Smith,19,183
+Site-100,Cleveland Medical Center,Cleveland,OH,academic,Neurology; Respiratory,Dr. John Miller,23,460
+Site-101,Boston Medical Center,Boston,MA,academic,Respiratory; Gastroenterology,Dr. Patricia Garcia,5,54
+Site-102,New York Medical Center,New York,NY,academic,Cardiology; Oncology,Dr. Elizabeth Smith,10,185
+Site-103,Philadelphia Medical Center,Philadelphia,PA,academic,Immunology; Oncology,Dr. Robert Thomas,8,332
+Site-104,Chicago Medical Center,Chicago,IL,academic,Oncology; Immunology; Neurology,Dr. Robert Lee,15,267
+Site-105,Los Angeles Medical Center,Los Angeles,CA,academic,Endocrinology; Cardiology,Dr. Richard Davis,22,342
+Site-106,Omaha Regional Hospital,Omaha,NE,community,Immunology; Endocrinology,Dr. Linda Martinez,21,60
+Site-107,Nashville Regional Hospital,Nashville,TN,community,Gastroenterology,Dr. Nancy Hernandez,5,20
+Site-108,Phoenix Regional Hospital,Phoenix,AZ,community,Immunology; Neurology,Dr. Nancy Harris,23,76
+Site-109,Dallas Regional Hospital,Dallas,TX,community,Endocrinology; Gastroenterology,Dr. Christopher Rodriguez,7,110
+Site-110,Houston Medical Center,Houston,TX,academic,Neurology; Endocrinology; Gastroenterology,Dr. Thomas Hernandez,16,210
+Site-111,Miami Regional Hospital,Miami,FL,community,Neurology; Cardiology,Dr. Thomas Hernandez,22,137
+Site-112,Atlanta Medical Center,Atlanta,GA,academic,Oncology,Dr. Nancy Davis,21,81
+Site-113,Seattle Medical Center,Seattle,WA,academic,Respiratory; Immunology,Dr. Thomas Wilson,20,162
+Site-114,Denver Regional Hospital,Denver,CO,community,Gastroenterology,Dr. Sarah Garcia,23,129
+Site-115,Portland Regional Hospital,Portland,OR,community,Cardiology; Respiratory; Endocrinology,Dr. Mary Smith,22,91
+Site-116,San Diego Medical Center,San Diego,CA,academic,Gastroenterology,Dr. Nancy Thomas,9,169
+Site-117,San Francisco Medical Center,San Francisco,CA,academic,Immunology; Oncology,Dr. Susan Hernandez,20,481
+Site-118,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology,Dr. Sarah Miller,14,85
+Site-119,Detroit Medical Center,Detroit,MI,academic,Gastroenterology; Oncology; Endocrinology,Dr. Sarah Johnson,5,168
+Site-120,Cleveland Medical Center,Cleveland,OH,academic,Immunology; Endocrinology,Dr. Barbara Lee,9,391
+Site-121,Boston Medical Center,Boston,MA,academic,Immunology; Endocrinology; Gastroenterology,Dr. Barbara Clark,21,63
+Site-122,New York Medical Center,New York,NY,academic,Respiratory; Endocrinology,Dr. William Davis,6,78
+Site-123,Philadelphia Medical Center,Philadelphia,PA,academic,Neurology,Dr. Richard Johnson,9,83
+Site-124,Chicago Medical Center,Chicago,IL,academic,Immunology; Neurology; Oncology,Dr. Thomas Jones,10,362
+Site-125,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology; Respiratory,Dr. Jennifer Davis,6,239
+Site-126,Omaha Regional Hospital,Omaha,NE,community,Respiratory,Dr. Susan Johnson,15,30
+Site-127,Nashville Regional Hospital,Nashville,TN,community,Oncology; Endocrinology,Dr. Linda Hernandez,8,88
+Site-128,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology; Cardiology,Dr. Lisa Smith,8,128
+Site-129,Dallas Regional Hospital,Dallas,TX,community,Cardiology; Neurology,Dr. David Johnson,13,80
+Site-130,Houston Medical Center,Houston,TX,academic,Immunology; Endocrinology,Dr. David Davis,14,151
+Site-131,Miami Regional Hospital,Miami,FL,community,Respiratory; Cardiology,Dr. Mary Lopez,23,76
+Site-132,Atlanta Medical Center,Atlanta,GA,academic,Immunology,Dr. Daniel Moore,19,247
+Site-133,Seattle Medical Center,Seattle,WA,academic,Respiratory,Dr. Linda Jackson,16,315
+Site-134,Denver Regional Hospital,Denver,CO,community,Immunology,Dr. Jessica Miller,21,136
+Site-135,Portland Regional Hospital,Portland,OR,community,Oncology; Immunology; Respiratory,Dr. Michael Rodriguez,23,135
+Site-136,San Diego Medical Center,San Diego,CA,academic,Endocrinology; Cardiology,Dr. Michael Williams,22,180
+Site-137,San Francisco Medical Center,San Francisco,CA,academic,Neurology; Cardiology,Dr. Robert Hernandez,12,458
+Site-138,Minneapolis Medical Center,Minneapolis,MN,academic,Oncology; Endocrinology; Respiratory,Dr. Richard Jackson,5,83
+Site-139,Detroit Medical Center,Detroit,MI,academic,Respiratory; Endocrinology,Dr. Daniel Wilson,17,367
+Site-140,Cleveland Medical Center,Cleveland,OH,academic,Immunology; Neurology; Respiratory,Dr. Christopher Lopez,20,408
+Site-141,Boston Medical Center,Boston,MA,academic,Oncology,Dr. Karen Jones,5,342
+Site-142,New York Medical Center,New York,NY,academic,Endocrinology,Dr. Jessica Smith,18,342
+Site-143,Philadelphia Medical Center,Philadelphia,PA,academic,Endocrinology; Immunology; Oncology,Dr. Robert Hernandez,10,202
+Site-144,Chicago Medical Center,Chicago,IL,academic,Gastroenterology,Dr. Michael Lee,8,379
+Site-145,Los Angeles Medical Center,Los Angeles,CA,academic,Gastroenterology,Dr. David Johnson,13,264
+Site-146,Omaha Regional Hospital,Omaha,NE,community,Gastroenterology; Immunology,Dr. Thomas Rodriguez,7,101
+Site-147,Nashville Regional Hospital,Nashville,TN,community,Cardiology; Immunology; Oncology,Dr. Thomas Clark,7,87
+Site-148,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology; Respiratory,Dr. Susan Jones,6,95
+Site-149,Dallas Regional Hospital,Dallas,TX,community,Oncology; Immunology,Dr. Elizabeth Rodriguez,19,91
+Site-150,Houston Medical Center,Houston,TX,academic,Cardiology,Dr. Robert Taylor,22,163
+Site-151,Miami Regional Hospital,Miami,FL,community,Respiratory; Gastroenterology; Immunology,Dr. Linda Wilson,23,99
+Site-152,Atlanta Medical Center,Atlanta,GA,academic,Immunology; Gastroenterology,Dr. Linda Smith,20,240
+Site-153,Seattle Medical Center,Seattle,WA,academic,Respiratory; Gastroenterology; Immunology,Dr. Jennifer Miller,9,443
+Site-154,Denver Regional Hospital,Denver,CO,community,Gastroenterology,Dr. David Thompson,11,32
+Site-155,Portland Regional Hospital,Portland,OR,community,Respiratory; Neurology,Dr. Susan Moore,13,89
+Site-156,San Diego Medical Center,San Diego,CA,academic,Endocrinology; Oncology,Dr. Charles Miller,14,327
+Site-157,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology,Dr. Patricia Lee,8,423
+Site-158,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology; Oncology; Neurology,Dr. James White,22,485
+Site-159,Detroit Medical Center,Detroit,MI,academic,Oncology; Immunology; Endocrinology,Dr. Barbara Miller,15,479
+Site-160,Cleveland Medical Center,Cleveland,OH,academic,Immunology,Dr. Mary Brown,21,133
+Site-161,Boston Medical Center,Boston,MA,academic,Respiratory; Cardiology; Neurology,Dr. Nancy Hernandez,7,406
+Site-162,New York Medical Center,New York,NY,academic,Respiratory,Dr. Karen Garcia,23,211
+Site-163,Philadelphia Medical Center,Philadelphia,PA,academic,Endocrinology; Respiratory,Dr. John Moore,16,142
+Site-164,Chicago Medical Center,Chicago,IL,academic,Endocrinology; Gastroenterology,Dr. Christopher Davis,19,365
+Site-165,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology; Immunology,Dr. John Lee,18,481
+Site-166,Omaha Regional Hospital,Omaha,NE,community,Gastroenterology; Cardiology,Dr. Nancy White,6,83
+Site-167,Nashville Regional Hospital,Nashville,TN,community,Gastroenterology; Immunology,Dr. Sarah Anderson,19,30
+Site-168,Phoenix Regional Hospital,Phoenix,AZ,community,Neurology,Dr. Nancy Martin,13,116
+Site-169,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology; Neurology; Cardiology,Dr. Mary Smith,5,122
+Site-170,Houston Medical Center,Houston,TX,academic,Oncology,Dr. Mary Garcia,11,354
+Site-171,Miami Regional Hospital,Miami,FL,community,Endocrinology; Cardiology; Immunology,Dr. Linda Hernandez,7,60
+Site-172,Atlanta Medical Center,Atlanta,GA,academic,Endocrinology; Oncology; Neurology,Dr. Sarah Lopez,12,432
+Site-173,Seattle Medical Center,Seattle,WA,academic,Endocrinology; Oncology,Dr. Michael Hernandez,24,346
+Site-174,Denver Regional Hospital,Denver,CO,community,Cardiology; Neurology,Dr. Elizabeth Anderson,15,141
+Site-175,Portland Regional Hospital,Portland,OR,community,Oncology; Respiratory,Dr. Charles Harris,18,56
+Site-176,San Diego Medical Center,San Diego,CA,academic,Respiratory,Dr. Lisa Rodriguez,7,256
+Site-177,San Francisco Medical Center,San Francisco,CA,academic,Neurology,Dr. James Miller,16,269
+Site-178,Minneapolis Medical Center,Minneapolis,MN,academic,Respiratory; Neurology; Endocrinology,Dr. Barbara Lee,22,277
+Site-179,Detroit Medical Center,Detroit,MI,academic,Oncology; Immunology,Dr. Mary Thomas,6,174
+Site-180,Cleveland Medical Center,Cleveland,OH,academic,Gastroenterology; Respiratory,Dr. Barbara Williams,17,347
+Site-181,Boston Medical Center,Boston,MA,academic,Immunology; Neurology,Dr. Barbara Anderson,18,365
+Site-182,New York Medical Center,New York,NY,academic,Gastroenterology; Immunology,Dr. Joseph Anderson,11,77
+Site-183,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology,Dr. Mary Williams,9,336
+Site-184,Chicago Medical Center,Chicago,IL,academic,Neurology; Oncology,Dr. David Martinez,7,306
+Site-185,Los Angeles Medical Center,Los Angeles,CA,academic,Cardiology; Neurology,Dr. Robert Lee,12,470
+Site-186,Omaha Regional Hospital,Omaha,NE,community,Gastroenterology; Cardiology,Dr. Joseph Jones,16,127
+Site-187,Nashville Regional Hospital,Nashville,TN,community,Respiratory,Dr. Karen Jackson,18,138
+Site-188,Phoenix Regional Hospital,Phoenix,AZ,community,Gastroenterology; Immunology; Cardiology,Dr. John Garcia,9,39
+Site-189,Dallas Regional Hospital,Dallas,TX,community,Respiratory,Dr. Christopher Jackson,15,57
+Site-190,Houston Medical Center,Houston,TX,academic,Endocrinology,Dr. Karen Harris,17,178
+Site-191,Miami Regional Hospital,Miami,FL,community,Endocrinology; Gastroenterology; Immunology,Dr. Daniel Davis,10,133
+Site-192,Atlanta Medical Center,Atlanta,GA,academic,Endocrinology; Cardiology; Gastroenterology,Dr. Sarah Moore,12,338
+Site-193,Seattle Medical Center,Seattle,WA,academic,Respiratory; Neurology; Immunology,Dr. James Martin,20,241
+Site-194,Denver Regional Hospital,Denver,CO,community,Cardiology; Immunology,Dr. Jennifer Rodriguez,5,87
+Site-195,Portland Regional Hospital,Portland,OR,community,Immunology; Gastroenterology; Oncology,Dr. Mary Garcia,18,42
+Site-196,San Diego Medical Center,San Diego,CA,academic,Cardiology; Immunology,Dr. Charles Wilson,15,125
+Site-197,San Francisco Medical Center,San Francisco,CA,academic,Cardiology; Neurology,Dr. Michael Thomas,23,477
+Site-198,Minneapolis Medical Center,Minneapolis,MN,academic,Immunology,Dr. Jennifer Hernandez,7,134
+Site-199,Detroit Medical Center,Detroit,MI,academic,Neurology; Respiratory,Dr. Linda Taylor,6,353
+Site-200,Cleveland Medical Center,Cleveland,OH,academic,Endocrinology; Oncology,Dr. Robert Thomas,16,70
+Site-201,Boston Medical Center,Boston,MA,academic,Cardiology; Respiratory,Dr. Daniel Hernandez,20,373
+Site-202,New York Medical Center,New York,NY,academic,Neurology,Dr. Christopher Wilson,23,206
+Site-203,Philadelphia Medical Center,Philadelphia,PA,academic,Gastroenterology; Neurology,Dr. Joseph Williams,12,181
+Site-204,Chicago Medical Center,Chicago,IL,academic,Immunology,Dr. David Miller,16,85
+Site-205,Los Angeles Medical Center,Los Angeles,CA,academic,Respiratory; Oncology; Gastroenterology,Dr. Karen Brown,11,424
+Site-206,Omaha Regional Hospital,Omaha,NE,community,Neurology; Endocrinology,Dr. Nancy White,13,91
+Site-207,Nashville Regional Hospital,Nashville,TN,community,Oncology,Dr. Lisa Taylor,21,79
+Site-208,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology; Immunology,Dr. Michael Martinez,22,127
+Site-209,Dallas Regional Hospital,Dallas,TX,community,Oncology,Dr. Mary Smith,21,97
+Site-210,Houston Medical Center,Houston,TX,academic,Immunology; Respiratory,Dr. Richard Johnson,7,474
+Site-211,Miami Regional Hospital,Miami,FL,community,Oncology; Gastroenterology,Dr. Thomas Hernandez,11,51
+Site-212,Atlanta Medical Center,Atlanta,GA,academic,Gastroenterology,Dr. Michael Wilson,18,402
+Site-213,Seattle Medical Center,Seattle,WA,academic,Neurology,Dr. Jennifer Rodriguez,11,76
+Site-214,Denver Regional Hospital,Denver,CO,community,Gastroenterology; Endocrinology,Dr. Christopher Davis,10,105
+Site-215,Portland Regional Hospital,Portland,OR,community,Gastroenterology; Immunology,Dr. Jennifer Johnson,16,27
+Site-216,San Diego Medical Center,San Diego,CA,academic,Neurology; Respiratory; Immunology,Dr. Nancy Lopez,8,104
+Site-217,San Francisco Medical Center,San Francisco,CA,academic,Oncology; Cardiology,Dr. Jessica Lopez,21,167
+Site-218,Minneapolis Medical Center,Minneapolis,MN,academic,Respiratory; Neurology,Dr. Robert Lee,12,280
+Site-219,Detroit Medical Center,Detroit,MI,academic,Gastroenterology; Neurology,Dr. James Thompson,20,163
+Site-220,Cleveland Medical Center,Cleveland,OH,academic,Cardiology,Dr. Richard Johnson,13,229
+Site-221,Boston Medical Center,Boston,MA,academic,Oncology; Immunology,Dr. Daniel Brown,22,150
+Site-222,New York Medical Center,New York,NY,academic,Immunology; Endocrinology; Neurology,Dr. Karen Martinez,16,265
+Site-223,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology,Dr. Elizabeth Anderson,10,115
+Site-224,Chicago Medical Center,Chicago,IL,academic,Immunology; Neurology; Endocrinology,Dr. Mary Williams,22,359
+Site-225,Los Angeles Medical Center,Los Angeles,CA,academic,Cardiology,Dr. James Brown,18,474
+Site-226,Omaha Regional Hospital,Omaha,NE,community,Respiratory,Dr. Jennifer Wilson,6,31
+Site-227,Nashville Regional Hospital,Nashville,TN,community,Oncology; Gastroenterology,Dr. Richard Anderson,24,79
+Site-228,Phoenix Regional Hospital,Phoenix,AZ,community,Neurology; Endocrinology,Dr. Daniel Martin,23,75
+Site-229,Dallas Regional Hospital,Dallas,TX,community,Neurology,Dr. Joseph Rodriguez,23,26
+Site-230,Houston Medical Center,Houston,TX,academic,Immunology; Cardiology,Dr. Jessica Taylor,5,469
+Site-231,Miami Regional Hospital,Miami,FL,community,Cardiology,Dr. Jennifer Miller,22,111
+Site-232,Atlanta Medical Center,Atlanta,GA,academic,Immunology; Oncology,Dr. Nancy Anderson,11,295
+Site-233,Seattle Medical Center,Seattle,WA,academic,Neurology; Cardiology,Dr. Jennifer Thomas,14,291
+Site-234,Denver Regional Hospital,Denver,CO,community,Cardiology,Dr. Richard Thompson,22,71
+Site-235,Portland Regional Hospital,Portland,OR,community,Endocrinology; Respiratory; Gastroenterology,Dr. Daniel Thompson,8,61
+Site-236,San Diego Medical Center,San Diego,CA,academic,Immunology,Dr. Christopher Martinez,17,97
+Site-237,San Francisco Medical Center,San Francisco,CA,academic,Oncology,Dr. James Martinez,22,313
+Site-238,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology; Respiratory,Dr. Nancy Davis,21,150
+Site-239,Detroit Medical Center,Detroit,MI,academic,Respiratory,Dr. Linda Wilson,12,66
+Site-240,Cleveland Medical Center,Cleveland,OH,academic,Cardiology; Oncology,Dr. Robert Lee,12,440
+Site-241,Boston Medical Center,Boston,MA,academic,Oncology; Immunology,Dr. Charles Martin,15,417
+Site-242,New York Medical Center,New York,NY,academic,Immunology; Endocrinology,Dr. Thomas Davis,12,127
+Site-243,Philadelphia Medical Center,Philadelphia,PA,academic,Oncology; Endocrinology,Dr. William Rodriguez,22,318
+Site-244,Chicago Medical Center,Chicago,IL,academic,Endocrinology,Dr. Christopher Taylor,6,364
+Site-245,Los Angeles Medical Center,Los Angeles,CA,academic,Gastroenterology,Dr. Susan Jackson,24,454
+Site-246,Omaha Regional Hospital,Omaha,NE,community,Neurology; Immunology; Respiratory,Dr. John Harris,11,145
+Site-247,Nashville Regional Hospital,Nashville,TN,community,Oncology; Endocrinology,Dr. Linda Anderson,12,108
+Site-248,Phoenix Regional Hospital,Phoenix,AZ,community,Respiratory,Dr. Nancy Wilson,22,107
+Site-249,Dallas Regional Hospital,Dallas,TX,community,Immunology; Cardiology,Dr. Barbara Wilson,15,58
+Site-250,Houston Medical Center,Houston,TX,academic,Respiratory,Dr. Barbara Thomas,9,498
+Site-251,Miami Regional Hospital,Miami,FL,community,Endocrinology; Immunology,Dr. Patricia Davis,7,147
+Site-252,Atlanta Medical Center,Atlanta,GA,academic,Respiratory; Neurology,Dr. Susan Miller,6,139
+Site-253,Seattle Medical Center,Seattle,WA,academic,Immunology,Dr. Nancy Lopez,21,292
+Site-254,Denver Regional Hospital,Denver,CO,community,Oncology; Neurology; Cardiology,Dr. Daniel Garcia,23,56
+Site-255,Portland Regional Hospital,Portland,OR,community,Gastroenterology,Dr. Jennifer Thompson,12,39
+Site-256,San Diego Medical Center,San Diego,CA,academic,Gastroenterology; Oncology,Dr. Thomas Harris,11,437
+Site-257,San Francisco Medical Center,San Francisco,CA,academic,Cardiology; Endocrinology,Dr. Lisa Clark,6,415
+Site-258,Minneapolis Medical Center,Minneapolis,MN,academic,Oncology; Gastroenterology,Dr. Charles White,17,222
+Site-259,Detroit Medical Center,Detroit,MI,academic,Gastroenterology; Endocrinology,Dr. Patricia Harris,21,362
+Site-260,Cleveland Medical Center,Cleveland,OH,academic,Respiratory; Oncology,Dr. Nancy Wilson,5,127
+Site-261,Boston Medical Center,Boston,MA,academic,Gastroenterology; Neurology; Cardiology,Dr. David Miller,13,308
+Site-262,New York Medical Center,New York,NY,academic,Cardiology; Immunology,Dr. Richard Hernandez,21,294
+Site-263,Philadelphia Medical Center,Philadelphia,PA,academic,Gastroenterology; Cardiology,Dr. Charles Martinez,7,98
+Site-264,Chicago Medical Center,Chicago,IL,academic,Respiratory; Endocrinology,Dr. Christopher Martinez,9,362
+Site-265,Los Angeles Medical Center,Los Angeles,CA,academic,Endocrinology,Dr. Patricia Garcia,13,201
+Site-266,Omaha Regional Hospital,Omaha,NE,community,Oncology,Dr. Patricia Thompson,16,99
+Site-267,Nashville Regional Hospital,Nashville,TN,community,Gastroenterology; Cardiology; Neurology,Dr. Jessica White,14,101
+Site-268,Phoenix Regional Hospital,Phoenix,AZ,community,Oncology; Endocrinology,Dr. David Thompson,8,139
+Site-269,Dallas Regional Hospital,Dallas,TX,community,Respiratory,Dr. Susan Jones,22,134
+Site-270,Houston Medical Center,Houston,TX,academic,Respiratory,Dr. Christopher Lopez,13,338
+Site-271,Miami Regional Hospital,Miami,FL,community,Immunology; Gastroenterology,Dr. Thomas Clark,6,117
+Site-272,Atlanta Medical Center,Atlanta,GA,academic,Immunology; Gastroenterology; Neurology,Dr. James Martinez,9,216
+Site-273,Seattle Medical Center,Seattle,WA,academic,Endocrinology; Oncology,Dr. Nancy Lopez,19,98
+Site-274,Denver Regional Hospital,Denver,CO,community,Oncology; Endocrinology,Dr. Michael Thompson,24,98
+Site-275,Portland Regional Hospital,Portland,OR,community,Endocrinology,Dr. Nancy Lee,18,85
+Site-276,San Diego Medical Center,San Diego,CA,academic,Oncology,Dr. Lisa Williams,12,328
+Site-277,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology; Endocrinology,Dr. Sarah Hernandez,23,134
+Site-278,Minneapolis Medical Center,Minneapolis,MN,academic,Oncology; Neurology,Dr. Linda Harris,13,435
+Site-279,Detroit Medical Center,Detroit,MI,academic,Endocrinology; Oncology,Dr. Michael Taylor,7,269
+Site-280,Cleveland Medical Center,Cleveland,OH,academic,Oncology; Respiratory; Cardiology,Dr. James Harris,12,415
+Site-281,Boston Medical Center,Boston,MA,academic,Cardiology; Immunology; Gastroenterology,Dr. Nancy Martin,13,207
+Site-282,New York Medical Center,New York,NY,academic,Gastroenterology; Endocrinology; Immunology,Dr. Richard Johnson,8,402
+Site-283,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology,Dr. Patricia Lee,6,421
+Site-284,Chicago Medical Center,Chicago,IL,academic,Respiratory; Gastroenterology,Dr. Jennifer Jackson,10,413
+Site-285,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology; Endocrinology; Oncology,Dr. William Thompson,6,297
+Site-286,Omaha Regional Hospital,Omaha,NE,community,Immunology,Dr. James Thompson,7,42
+Site-287,Nashville Regional Hospital,Nashville,TN,community,Immunology; Cardiology; Oncology,Dr. Jessica White,21,144
+Site-288,Phoenix Regional Hospital,Phoenix,AZ,community,Neurology; Cardiology,Dr. Jessica Johnson,6,106
+Site-289,Dallas Regional Hospital,Dallas,TX,community,Cardiology; Respiratory,Dr. John Brown,19,65
+Site-290,Houston Medical Center,Houston,TX,academic,Cardiology; Endocrinology; Respiratory,Dr. Karen Anderson,8,259
+Site-291,Miami Regional Hospital,Miami,FL,community,Oncology; Endocrinology,Dr. Charles Smith,10,119
+Site-292,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Endocrinology,Dr. Christopher Davis,7,473
+Site-293,Seattle Medical Center,Seattle,WA,academic,Immunology,Dr. Lisa Anderson,10,250
+Site-294,Denver Regional Hospital,Denver,CO,community,Endocrinology; Cardiology,Dr. Karen Wilson,11,38
+Site-295,Portland Regional Hospital,Portland,OR,community,Neurology,Dr. Joseph Lee,18,28
+Site-296,San Diego Medical Center,San Diego,CA,academic,Immunology; Cardiology,Dr. James Clark,24,271
+Site-297,San Francisco Medical Center,San Francisco,CA,academic,Neurology; Respiratory; Immunology,Dr. William Brown,8,169
+Site-298,Minneapolis Medical Center,Minneapolis,MN,academic,Oncology,Dr. Daniel Taylor,21,304
+Site-299,Detroit Medical Center,Detroit,MI,academic,Cardiology; Gastroenterology; Respiratory,Dr. Christopher Jones,20,494
+Site-300,Cleveland Medical Center,Cleveland,OH,academic,Neurology; Gastroenterology; Respiratory,Dr. William Brown,7,64
+Site-301,Boston Medical Center,Boston,MA,academic,Cardiology; Respiratory,Dr. William Martin,24,181
+Site-302,New York Medical Center,New York,NY,academic,Respiratory; Oncology,Dr. Daniel Miller,8,488
+Site-303,Philadelphia Medical Center,Philadelphia,PA,academic,Immunology; Neurology,Dr. William Smith,12,317
+Site-304,Chicago Medical Center,Chicago,IL,academic,Cardiology,Dr. Jennifer Davis,23,473
+Site-305,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology,Dr. Susan Williams,20,418
+Site-306,Omaha Regional Hospital,Omaha,NE,community,Immunology,Dr. Linda Hernandez,24,126
+Site-307,Nashville Regional Hospital,Nashville,TN,community,Cardiology; Neurology; Endocrinology,Dr. Nancy Rodriguez,13,78
+Site-308,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology,Dr. Michael Harris,13,65
+Site-309,Dallas Regional Hospital,Dallas,TX,community,Neurology; Cardiology,Dr. Richard Smith,12,64
+Site-310,Houston Medical Center,Houston,TX,academic,Cardiology; Oncology; Immunology,Dr. Michael Jones,12,224
+Site-311,Miami Regional Hospital,Miami,FL,community,Endocrinology,Dr. Karen Jackson,22,103
+Site-312,Atlanta Medical Center,Atlanta,GA,academic,Endocrinology,Dr. Thomas Smith,16,251
+Site-313,Seattle Medical Center,Seattle,WA,academic,Immunology; Endocrinology,Dr. Mary Martin,15,88
+Site-314,Denver Regional Hospital,Denver,CO,community,Oncology,Dr. John Lee,10,21
+Site-315,Portland Regional Hospital,Portland,OR,community,Neurology,Dr. Thomas Rodriguez,16,68
+Site-316,San Diego Medical Center,San Diego,CA,academic,Endocrinology; Oncology; Gastroenterology,Dr. Daniel Clark,10,424
+Site-317,San Francisco Medical Center,San Francisco,CA,academic,Endocrinology; Oncology,Dr. William Thompson,10,205
+Site-318,Minneapolis Medical Center,Minneapolis,MN,academic,Immunology; Endocrinology,Dr. Barbara Thomas,13,429
+Site-319,Detroit Medical Center,Detroit,MI,academic,Cardiology; Neurology,Dr. James Clark,11,96
+Site-320,Cleveland Medical Center,Cleveland,OH,academic,Cardiology; Oncology,Dr. Karen Martin,14,175
+Site-321,Boston Medical Center,Boston,MA,academic,Neurology; Oncology,Dr. David Moore,21,80
+Site-322,New York Medical Center,New York,NY,academic,Immunology; Cardiology; Oncology,Dr. Patricia Moore,17,203
+Site-323,Philadelphia Medical Center,Philadelphia,PA,academic,Immunology; Oncology,Dr. Susan White,15,448
+Site-324,Chicago Medical Center,Chicago,IL,academic,Respiratory; Gastroenterology; Neurology,Dr. Christopher Martinez,9,183
+Site-325,Los Angeles Medical Center,Los Angeles,CA,academic,Respiratory; Cardiology; Gastroenterology,Dr. Patricia Jackson,13,327
+Site-326,Omaha Regional Hospital,Omaha,NE,community,Immunology; Neurology,Dr. Patricia Jones,9,106
+Site-327,Nashville Regional Hospital,Nashville,TN,community,Respiratory; Gastroenterology; Immunology,Dr. Charles Williams,14,146
+Site-328,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology; Cardiology; Respiratory,Dr. Barbara Thompson,16,144
+Site-329,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology; Cardiology; Respiratory,Dr. John Wilson,19,101
+Site-330,Houston Medical Center,Houston,TX,academic,Neurology,Dr. Linda White,23,423
+Site-331,Miami Regional Hospital,Miami,FL,community,Respiratory; Oncology,Dr. Charles Thompson,6,24
+Site-332,Atlanta Medical Center,Atlanta,GA,academic,Endocrinology; Gastroenterology,Dr. Thomas Clark,24,353
+Site-333,Seattle Medical Center,Seattle,WA,academic,Endocrinology; Oncology; Neurology,Dr. Barbara Lopez,24,495
+Site-334,Denver Regional Hospital,Denver,CO,community,Endocrinology; Immunology,Dr. Lisa Harris,19,101
+Site-335,Portland Regional Hospital,Portland,OR,community,Cardiology; Respiratory,Dr. Charles Thomas,19,100
+Site-336,San Diego Medical Center,San Diego,CA,academic,Cardiology,Dr. Thomas Smith,12,238
+Site-337,San Francisco Medical Center,San Francisco,CA,academic,Oncology; Immunology,Dr. Daniel Taylor,22,347
+Site-338,Minneapolis Medical Center,Minneapolis,MN,academic,Immunology; Endocrinology; Gastroenterology,Dr. Christopher Taylor,16,68
+Site-339,Detroit Medical Center,Detroit,MI,academic,Cardiology,Dr. Sarah Davis,21,50
+Site-340,Cleveland Medical Center,Cleveland,OH,academic,Respiratory; Cardiology,Dr. Joseph Jones,17,84
+Site-341,Boston Medical Center,Boston,MA,academic,Oncology; Cardiology,Dr. Mary Davis,13,237
+Site-342,New York Medical Center,New York,NY,academic,Endocrinology,Dr. Richard Wilson,6,211
+Site-343,Philadelphia Medical Center,Philadelphia,PA,academic,Respiratory,Dr. Elizabeth Taylor,10,339
+Site-344,Chicago Medical Center,Chicago,IL,academic,Cardiology,Dr. Michael Williams,12,370
+Site-345,Los Angeles Medical Center,Los Angeles,CA,academic,Respiratory; Immunology,Dr. Thomas Rodriguez,17,386
+Site-346,Omaha Regional Hospital,Omaha,NE,community,Oncology; Neurology,Dr. Daniel Harris,14,129
+Site-347,Nashville Regional Hospital,Nashville,TN,community,Oncology; Cardiology,Dr. Karen Thompson,19,31
+Site-348,Phoenix Regional Hospital,Phoenix,AZ,community,Gastroenterology,Dr. Daniel Anderson,6,112
+Site-349,Dallas Regional Hospital,Dallas,TX,community,Neurology; Gastroenterology; Respiratory,Dr. Sarah White,10,140
+Site-350,Houston Medical Center,Houston,TX,academic,Neurology; Oncology,Dr. James Hernandez,23,356
+Site-351,Miami Regional Hospital,Miami,FL,community,Respiratory; Gastroenterology,Dr. Richard Martin,21,79
+Site-352,Atlanta Medical Center,Atlanta,GA,academic,Cardiology,Dr. Lisa Harris,14,73
+Site-353,Seattle Medical Center,Seattle,WA,academic,Cardiology; Immunology,Dr. Barbara Hernandez,21,189
+Site-354,Denver Regional Hospital,Denver,CO,community,Endocrinology; Cardiology,Dr. Robert Martinez,21,124
+Site-355,Portland Regional Hospital,Portland,OR,community,Gastroenterology; Neurology,Dr. Michael Rodriguez,17,73
+Site-356,San Diego Medical Center,San Diego,CA,academic,Neurology; Immunology,Dr. Lisa White,5,313
+Site-357,San Francisco Medical Center,San Francisco,CA,academic,Endocrinology; Neurology,Dr. Michael Brown,22,114
+Site-358,Minneapolis Medical Center,Minneapolis,MN,academic,Endocrinology; Immunology,Dr. Patricia Thompson,15,123
+Site-359,Detroit Medical Center,Detroit,MI,academic,Endocrinology; Neurology; Gastroenterology,Dr. Susan Wilson,9,212
+Site-360,Cleveland Medical Center,Cleveland,OH,academic,Gastroenterology; Cardiology,Dr. John Thomas,10,427
+Site-361,Boston Medical Center,Boston,MA,academic,Respiratory; Endocrinology,Dr. Jennifer Smith,24,230
+Site-362,New York Medical Center,New York,NY,academic,Immunology,Dr. Elizabeth Thomas,13,56
+Site-363,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology; Oncology,Dr. Karen Lopez,20,209
+Site-364,Chicago Medical Center,Chicago,IL,academic,Cardiology; Oncology,Dr. David Davis,5,206
+Site-365,Los Angeles Medical Center,Los Angeles,CA,academic,Oncology; Neurology,Dr. Mary Johnson,17,442
+Site-366,Omaha Regional Hospital,Omaha,NE,community,Respiratory; Cardiology,Dr. Daniel Jones,24,125
+Site-367,Nashville Regional Hospital,Nashville,TN,community,Cardiology,Dr. Elizabeth Wilson,23,68
+Site-368,Phoenix Regional Hospital,Phoenix,AZ,community,Endocrinology,Dr. Joseph Lee,10,133
+Site-369,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology,Dr. Robert Lee,24,34
+Site-370,Houston Medical Center,Houston,TX,academic,Oncology; Neurology,Dr. Christopher Anderson,9,446
+Site-371,Miami Regional Hospital,Miami,FL,community,Cardiology,Dr. John Garcia,12,69
+Site-372,Atlanta Medical Center,Atlanta,GA,academic,Oncology,Dr. David Lopez,10,495
+Site-373,Seattle Medical Center,Seattle,WA,academic,Oncology; Gastroenterology,Dr. Barbara Hernandez,9,157
+Site-374,Denver Regional Hospital,Denver,CO,community,Immunology; Gastroenterology; Oncology,Dr. Charles Johnson,21,27
+Site-375,Portland Regional Hospital,Portland,OR,community,Gastroenterology; Respiratory,Dr. Patricia Thomas,5,112
+Site-376,San Diego Medical Center,San Diego,CA,academic,Neurology; Oncology; Cardiology,Dr. Nancy Lopez,13,220
+Site-377,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology; Immunology,Dr. Christopher Clark,14,413
+Site-378,Minneapolis Medical Center,Minneapolis,MN,academic,Immunology; Endocrinology; Oncology,Dr. Richard Wilson,14,138
+Site-379,Detroit Medical Center,Detroit,MI,academic,Cardiology; Immunology,Dr. Michael Moore,7,140
+Site-380,Cleveland Medical Center,Cleveland,OH,academic,Oncology; Respiratory; Cardiology,Dr. Susan Moore,22,498
+Site-381,Boston Medical Center,Boston,MA,academic,Respiratory; Immunology; Oncology,Dr. Sarah Smith,17,438
+Site-382,New York Medical Center,New York,NY,academic,Respiratory; Cardiology,Dr. James Moore,6,484
+Site-383,Philadelphia Medical Center,Philadelphia,PA,academic,Cardiology; Oncology,Dr. Christopher Williams,16,376
+Site-384,Chicago Medical Center,Chicago,IL,academic,Endocrinology; Neurology,Dr. Linda Jones,18,441
+Site-385,Los Angeles Medical Center,Los Angeles,CA,academic,Gastroenterology; Endocrinology,Dr. William Taylor,23,470
+Site-386,Omaha Regional Hospital,Omaha,NE,community,Neurology; Respiratory; Oncology,Dr. James Williams,19,43
+Site-387,Nashville Regional Hospital,Nashville,TN,community,Cardiology; Respiratory,Dr. Elizabeth Brown,7,114
+Site-388,Phoenix Regional Hospital,Phoenix,AZ,community,Immunology,Dr. Christopher Rodriguez,10,105
+Site-389,Dallas Regional Hospital,Dallas,TX,community,Cardiology,Dr. Joseph Brown,16,77
+Site-390,Houston Medical Center,Houston,TX,academic,Gastroenterology; Immunology; Cardiology,Dr. Sarah Jones,20,88
+Site-391,Miami Regional Hospital,Miami,FL,community,Oncology; Endocrinology,Dr. Jessica Clark,12,28
+Site-392,Atlanta Medical Center,Atlanta,GA,academic,Cardiology; Endocrinology,Dr. Thomas Hernandez,14,454
+Site-393,Seattle Medical Center,Seattle,WA,academic,Cardiology; Respiratory,Dr. Robert Garcia,21,137
+Site-394,Denver Regional Hospital,Denver,CO,community,Endocrinology; Cardiology,Dr. Mary Davis,19,145
+Site-395,Portland Regional Hospital,Portland,OR,community,Cardiology,Dr. Thomas Johnson,13,100
+Site-396,San Diego Medical Center,San Diego,CA,academic,Immunology; Endocrinology,Dr. Thomas Lopez,20,149
+Site-397,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology,Dr. Patricia Jackson,21,238
+Site-398,Minneapolis Medical Center,Minneapolis,MN,academic,Cardiology; Endocrinology,Dr. Daniel Brown,23,332
+Site-399,Detroit Medical Center,Detroit,MI,academic,Cardiology,Dr. Jessica Garcia,12,138
+Site-400,Cleveland Medical Center,Cleveland,OH,academic,Immunology,Dr. Karen Brown,16,489
+Site-401,Boston Medical Center,Boston,MA,academic,Endocrinology; Respiratory; Oncology,Dr. Daniel Williams,22,61
+Site-402,New York Medical Center,New York,NY,academic,Neurology; Cardiology,Dr. Christopher Hernandez,9,383
+Site-403,Philadelphia Medical Center,Philadelphia,PA,academic,Gastroenterology,Dr. Robert White,5,96
+Site-404,Chicago Medical Center,Chicago,IL,academic,Endocrinology; Oncology,Dr. Michael Brown,5,297
+Site-405,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology; Immunology; Respiratory,Dr. Karen Clark,22,66
+Site-406,Omaha Regional Hospital,Omaha,NE,community,Immunology; Neurology; Gastroenterology,Dr. Mary Garcia,9,90
+Site-407,Nashville Regional Hospital,Nashville,TN,community,Oncology; Neurology,Dr. John Martinez,6,58
+Site-408,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology,Dr. Joseph Garcia,24,85
+Site-409,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology; Immunology,Dr. Christopher Johnson,7,119
+Site-410,Houston Medical Center,Houston,TX,academic,Gastroenterology,Dr. Mary Brown,5,484
+Site-411,Miami Regional Hospital,Miami,FL,community,Cardiology; Neurology,Dr. Jessica Thompson,8,87
+Site-412,Atlanta Medical Center,Atlanta,GA,academic,Neurology; Respiratory,Dr. Michael Moore,13,155
+Site-413,Seattle Medical Center,Seattle,WA,academic,Endocrinology,Dr. Jennifer Taylor,10,176
+Site-414,Denver Regional Hospital,Denver,CO,community,Endocrinology; Immunology,Dr. Joseph Thomas,8,140
+Site-415,Portland Regional Hospital,Portland,OR,community,Respiratory; Cardiology,Dr. William Martinez,22,66
+Site-416,San Diego Medical Center,San Diego,CA,academic,Oncology,Dr. James Anderson,9,363
+Site-417,San Francisco Medical Center,San Francisco,CA,academic,Immunology,Dr. James Hernandez,20,213
+Site-418,Minneapolis Medical Center,Minneapolis,MN,academic,Gastroenterology; Immunology,Dr. Richard Clark,18,258
+Site-419,Detroit Medical Center,Detroit,MI,academic,Neurology; Endocrinology,Dr. William Garcia,15,186
+Site-420,Cleveland Medical Center,Cleveland,OH,academic,Oncology; Respiratory,Dr. Sarah Clark,6,469
+Site-421,Boston Medical Center,Boston,MA,academic,Immunology; Endocrinology,Dr. Sarah Hernandez,9,309
+Site-422,New York Medical Center,New York,NY,academic,Endocrinology; Cardiology,Dr. Nancy Miller,15,471
+Site-423,Philadelphia Medical Center,Philadelphia,PA,academic,Neurology,Dr. Sarah Smith,10,158
+Site-424,Chicago Medical Center,Chicago,IL,academic,Respiratory,Dr. Joseph Lee,23,283
+Site-425,Los Angeles Medical Center,Los Angeles,CA,academic,Oncology; Neurology; Cardiology,Dr. Daniel Thompson,24,226
+Site-426,Omaha Regional Hospital,Omaha,NE,community,Immunology; Respiratory; Neurology,Dr. Elizabeth Miller,20,54
+Site-427,Nashville Regional Hospital,Nashville,TN,community,Respiratory; Gastroenterology; Endocrinology,Dr. Michael White,13,76
+Site-428,Phoenix Regional Hospital,Phoenix,AZ,community,Cardiology; Oncology,Dr. Nancy Rodriguez,19,123
+Site-429,Dallas Regional Hospital,Dallas,TX,community,Neurology; Immunology,Dr. Christopher Johnson,9,141
+Site-430,Houston Medical Center,Houston,TX,academic,Endocrinology,Dr. Elizabeth Thomas,23,296
+Site-431,Miami Regional Hospital,Miami,FL,community,Cardiology; Endocrinology,Dr. Joseph White,23,52
+Site-432,Atlanta Medical Center,Atlanta,GA,academic,Immunology; Neurology,Dr. James Martin,7,190
+Site-433,Seattle Medical Center,Seattle,WA,academic,Cardiology,Dr. Nancy Smith,6,344
+Site-434,Denver Regional Hospital,Denver,CO,community,Immunology,Dr. Lisa Moore,11,122
+Site-435,Portland Regional Hospital,Portland,OR,community,Cardiology; Immunology,Dr. Christopher Smith,21,48
+Site-436,San Diego Medical Center,San Diego,CA,academic,Neurology,Dr. Christopher Hernandez,20,385
+Site-437,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology; Cardiology,Dr. William Martin,16,474
+Site-438,Minneapolis Medical Center,Minneapolis,MN,academic,Neurology,Dr. Richard Thomas,7,433
+Site-439,Detroit Medical Center,Detroit,MI,academic,Cardiology; Endocrinology; Respiratory,Dr. Jessica Johnson,12,222
+Site-440,Cleveland Medical Center,Cleveland,OH,academic,Respiratory; Oncology; Cardiology,Dr. Sarah Johnson,17,372
+Site-441,Boston Medical Center,Boston,MA,academic,Oncology; Cardiology,Dr. Charles Williams,18,156
+Site-442,New York Medical Center,New York,NY,academic,Respiratory; Endocrinology,Dr. David Johnson,21,458
+Site-443,Philadelphia Medical Center,Philadelphia,PA,academic,Respiratory; Neurology,Dr. Patricia Davis,13,260
+Site-444,Chicago Medical Center,Chicago,IL,academic,Gastroenterology; Immunology,Dr. Barbara Miller,13,436
+Site-445,Los Angeles Medical Center,Los Angeles,CA,academic,Neurology; Oncology,Dr. Christopher Brown,14,318
+Site-446,Omaha Regional Hospital,Omaha,NE,community,Respiratory,Dr. David White,20,63
+Site-447,Nashville Regional Hospital,Nashville,TN,community,Endocrinology,Dr. David Thomas,20,81
+Site-448,Phoenix Regional Hospital,Phoenix,AZ,community,Gastroenterology; Immunology,Dr. Thomas Garcia,19,141
+Site-449,Dallas Regional Hospital,Dallas,TX,community,Gastroenterology; Oncology; Neurology,Dr. Susan Wilson,8,89
+Site-450,Houston Medical Center,Houston,TX,academic,Respiratory; Cardiology,Dr. Lisa Lee,9,119
+Site-451,Miami Regional Hospital,Miami,FL,community,Neurology; Endocrinology,Dr. Christopher Williams,19,123
+Site-452,Atlanta Medical Center,Atlanta,GA,academic,Respiratory; Gastroenterology; Cardiology,Dr. Richard Garcia,22,76
+Site-453,Seattle Medical Center,Seattle,WA,academic,Respiratory; Immunology; Oncology,Dr. Karen Lopez,15,212
+Site-454,Denver Regional Hospital,Denver,CO,community,Gastroenterology,Dr. Joseph Taylor,17,67
+Site-455,Portland Regional Hospital,Portland,OR,community,Gastroenterology,Dr. Christopher Williams,10,118
+Site-456,San Diego Medical Center,San Diego,CA,academic,Gastroenterology; Respiratory; Endocrinology,Dr. John Taylor,9,432
+Site-457,San Francisco Medical Center,San Francisco,CA,academic,Cardiology; Respiratory,Dr. Charles Hernandez,6,457
+Site-458,Minneapolis Medical Center,Minneapolis,MN,academic,Immunology; Cardiology,Dr. David Anderson,6,99
+Site-459,Detroit Medical Center,Detroit,MI,academic,Cardiology; Gastroenterology,Dr. Patricia White,21,451
+Site-460,Cleveland Medical Center,Cleveland,OH,academic,Cardiology,Dr. Daniel White,22,108
+Site-461,Boston Medical Center,Boston,MA,academic,Endocrinology; Respiratory,Dr. William White,14,291
+Site-462,New York Medical Center,New York,NY,academic,Respiratory,Dr. Joseph Moore,18,256
+Site-463,Philadelphia Medical Center,Philadelphia,PA,academic,Respiratory; Gastroenterology; Oncology,Dr. Barbara Davis,24,371
+Site-464,Chicago Medical Center,Chicago,IL,academic,Oncology; Gastroenterology,Dr. Robert Moore,10,197
+Site-465,Los Angeles Medical Center,Los Angeles,CA,academic,Cardiology; Gastroenterology,Dr. Linda Davis,21,288
+Site-466,Omaha Regional Hospital,Omaha,NE,community,Respiratory; Gastroenterology; Neurology,Dr. Lisa Taylor,13,138
+Site-467,Nashville Regional Hospital,Nashville,TN,community,Neurology; Cardiology,Dr. Linda Thomas,18,61
+Site-468,Phoenix Regional Hospital,Phoenix,AZ,community,Oncology; Respiratory,Dr. Charles Anderson,15,69
+Site-469,Dallas Regional Hospital,Dallas,TX,community,Respiratory,Dr. Jennifer Clark,14,59
+Site-470,Houston Medical Center,Houston,TX,academic,Gastroenterology,Dr. Linda Davis,16,77
+Site-471,Miami Regional Hospital,Miami,FL,community,Oncology,Dr. Thomas Brown,17,146
+Site-472,Atlanta Medical Center,Atlanta,GA,academic,Oncology; Gastroenterology; Cardiology,Dr. Lisa Clark,6,473
+Site-473,Seattle Medical Center,Seattle,WA,academic,Cardiology,Dr. Susan Clark,7,362
+Site-474,Denver Regional Hospital,Denver,CO,community,Gastroenterology; Immunology,Dr. Daniel Martinez,6,125
+Site-475,Portland Regional Hospital,Portland,OR,community,Respiratory; Endocrinology,Dr. Joseph Thomas,11,96
+Site-476,San Diego Medical Center,San Diego,CA,academic,Endocrinology; Respiratory,Dr. Jessica Rodriguez,16,488
+Site-477,San Francisco Medical Center,San Francisco,CA,academic,Immunology,Dr. Michael Brown,12,237
+Site-478,Minneapolis Medical Center,Minneapolis,MN,academic,Gastroenterology; Immunology; Respiratory,Dr. Susan White,8,169
+Site-479,Detroit Medical Center,Detroit,MI,academic,Oncology,Dr. Christopher Williams,7,367
+Site-480,Cleveland Medical Center,Cleveland,OH,academic,Cardiology; Endocrinology; Respiratory,Dr. Jennifer Anderson,7,304
+Site-481,Boston Medical Center,Boston,MA,academic,Oncology,Dr. Robert Lee,13,437
+Site-482,New York Medical Center,New York,NY,academic,Respiratory; Neurology,Dr. Richard Wilson,14,434
+Site-483,Philadelphia Medical Center,Philadelphia,PA,academic,Oncology,Dr. Joseph Wilson,21,313
+Site-484,Chicago Medical Center,Chicago,IL,academic,Respiratory,Dr. Joseph Wilson,11,295
+Site-485,Los Angeles Medical Center,Los Angeles,CA,academic,Respiratory; Immunology; Neurology,Dr. Sarah Moore,11,143
+Site-486,Omaha Regional Hospital,Omaha,NE,community,Endocrinology; Respiratory,Dr. Christopher Taylor,21,147
+Site-487,Nashville Regional Hospital,Nashville,TN,community,Respiratory; Cardiology; Endocrinology,Dr. Karen Smith,24,28
+Site-488,Phoenix Regional Hospital,Phoenix,AZ,community,Immunology; Endocrinology,Dr. Joseph Lopez,5,61
+Site-489,Dallas Regional Hospital,Dallas,TX,community,Endocrinology,Dr. Charles Hernandez,11,75
+Site-490,Houston Medical Center,Houston,TX,academic,Cardiology; Immunology,Dr. Jennifer White,22,188
+Site-491,Miami Regional Hospital,Miami,FL,community,Endocrinology,Dr. Lisa Moore,23,47
+Site-492,Atlanta Medical Center,Atlanta,GA,academic,Gastroenterology; Endocrinology; Neurology,Dr. Mary Garcia,9,107
+Site-493,Seattle Medical Center,Seattle,WA,academic,Oncology; Respiratory,Dr. Richard Lee,21,409
+Site-494,Denver Regional Hospital,Denver,CO,community,Gastroenterology; Neurology,Dr. Lisa Smith,14,130
+Site-495,Portland Regional Hospital,Portland,OR,community,Immunology,Dr. Jessica Clark,16,86
+Site-496,San Diego Medical Center,San Diego,CA,academic,Respiratory; Gastroenterology; Oncology,Dr. Lisa White,14,491
+Site-497,San Francisco Medical Center,San Francisco,CA,academic,Gastroenterology; Respiratory,Dr. Jessica Moore,19,400
+Site-498,Minneapolis Medical Center,Minneapolis,MN,academic,Neurology; Endocrinology; Immunology,Dr. Sarah Lee,16,427
+Site-499,Detroit Medical Center,Detroit,MI,academic,Neurology; Immunology; Cardiology,Dr. Christopher Lee,21,192
+Site-500,Cleveland Medical Center,Cleveland,OH,academic,Neurology; Immunology,Dr. Susan Lee,19,412
