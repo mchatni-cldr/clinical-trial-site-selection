@@ -1,0 +1,20 @@
+# Core Framework
+flask
+flask-cors
+
+# Agentic AI
+crewai
+crewai-tools
+
+# LLM
+anthropic
+langchain-anthropic
+
+# Data & Validation
+pydantic
+pandas
+numpy
+scipy
+
+# Utilities
+python-dotenv
